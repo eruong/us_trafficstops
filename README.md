@@ -1,6 +1,6 @@
 Final report at [https://eruong.github.io/us_trafficstops/Report/](https://eruong.github.io/us_trafficstops/Report/)
 
-## Data Science Research Circle at Pomona College in Spring 2020
+## Data Exploration of U.S. Police Stops
 * Supervisors: [Jo Hardin](https://github.com/hardin47) &amp; [Ghassan Sarkis](https://github.com/taroub)
 
 * Project Members:
