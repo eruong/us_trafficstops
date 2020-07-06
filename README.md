@@ -1,5 +1,5 @@
 # Exploring U.S. Police Stops
-This is a semester long data analysis of U.S. police stops using MySQL and R.
+This was a semester long data analysis of U.S. police stops using MySQL and R.
 
 The final group report can be found at [https://eruong.github.io/us_trafficstops/Report/](https://eruong.github.io/us_trafficstops/Report/). This repository contains code for reproducing the visualizations that are found in the linked report.
 
